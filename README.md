@@ -1,17 +1,3 @@
-       
-      AA        FFFFFFF  PPPPPPPPP       AA
-     AAAA       FFFFFFF  PPPPPPPPP      AAAA
-    AA  AA      FFF      PPP   PPP     AA  AA
-   AAAAAAAA     FFFFFFF  PPPPPPPPP    AAAAAAAA
-  AAA    AAA    FFFFFFF  PPPPP       AAA    AAA
- AAA      AAA   FFF      PPP        AAA      AAA
-AAA        AAA  FFF      PPP       AAA        AAA   
-
-
-
-
-
-
 # Lexique du vocabulaire du web
 
 Ce memo est fait dans le but d'un excercice.  

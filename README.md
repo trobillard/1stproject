@@ -3,117 +3,150 @@
 Ce memo est fait dans le but d'un excercice.
 Il me sera utile pour tout le long  de ma formation au sein du centre AFPA.
 
+
+--------------------------------------------------------------
+
+
 ## Lexique
 
 ### *Vocabulaire*
 
-**Back end**
-**Base de donnees**
-**client**
-**CSS**
-**Front end**
-**Git**
-**Github**
-**Html**
-**Integration**
-**Javascript**
-**Ligne de commande**
-**PHP**
-**Serveur**
+- **Back end**  
+
+
+- **Base de donnees**  
+
+
+- **client**  
+
+
+- **CSS**  
+
+
+- **Front end**  
+
+
+- **Git**  
+
+
+- **Github**  
+
+
+- **Html**  
+
+
+- **Integration**  
+
+
+- **Javascript**  
+
+
+- **Ligne de commande**  
+
+
+- **PHP**  
+
+
+- **Serveur**  
+
+
+
+
+---------------------------------------------------------------
 
 ### *Liste de commande*
 
-**whoami**
+- **whoami**  
 connaitre l'utilisateur qui utilise l'ordinateur
 
-**ls**
+- **ls**  
 liste le contenu du dossier courant
 
-**ls -la**
+- **ls -la**  
 liste l'ensemble du dossier courant + info complementaire
 
-**ls -a**
+- **ls -a**  
 liste le doc + dossier cache
 
-**cd**
+- **cd**  
 change directory
 
-**mkdir**
+- **mkdir**  
 creation directory
 
-**touch**
+- **touch**  
 creation document
 
-**nano** 
+- **nano**   
 Ouvre le fichier sous nano
 
-**mv**
+- **mv**  
 move ou renommer
 
-**cp**
+- **cp**  
 copy
 
-**rm**
+- **rm**  
 supprimer
 
-**rm -r**
+- **rm -r**  
 supprimer dossier + contenu
 
-**cat**
+- **cat**  
 afficher dans le bash
 
-**>**
+- **>**  
 redirection
 
-**grep**
+- **grep**  
 selectionner un mot en particulier
 
-**wc**
+- **wc**  
 world count
 
-**chmod**
+- **chmod**  
 changer les droits
 
-**git init**
+- **git init**  
 Git commence a initialiser
 
-**git status**
+- **git status**  
 Connaitre le status de git
 
-**gitignore**
+- **gitignore**  
 Demande a git d'ignorer un dossier
 
-**git add -A**
+- **git add -A**  
 Ajouter fichier a tracker pour preparer au commit
 
-**git commit -m ""**
+- **git commit -m ""**  
 Creation sauvegarde
 
-**git log**
+- **git log**  
 liste des commits
 
-**git diff**
+- **git diff**  
 Afficher les differences de mon fichier par rapport a l'etat du dernier commit
 
-**git branch**
+- **git branch**  
 Connaitre les branches
 
-**git branch dev**
+- **git branch dev**  
 Creation branche dev
 
-**git checkout master**
+- **git checkout master**  
 changement de branche vers master
 
-**git merge**
+- **git merge**  
 Fusioner dans
 
-**git remote -v** 
+- **git remote -v**   
 Montre si machine distante
 
-**git pull origin master**
+- **git pull origin master**  
 Ramener de github vers branche
 
-**git push origine dev**.
+- **git push origine dev**  
 envoyer de branche machine vers dev github
 
 

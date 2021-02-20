@@ -1,9 +1,25 @@
 # Lexique du vocabulaire du web
 
 Ce memo est fait dans le but d'un excercice.
-Il me sera utile pour tout le court de ma formation au sein du centre AFPA.
+Il me sera utile pour tout le long  de ma formation au sein du centre AFPA.
 
 ## Lexique
+
+### *Vocabulaire*
+
+**Back end**
+**Base de donnees**
+**client**
+**CSS**
+**Front end**
+**Git**
+**Github**
+**Html**
+**Integration**
+**Javascript**
+**Ligne de commande**
+**PHP**
+**Serveur**
 
 ### *Liste de commande*
 
@@ -97,12 +113,7 @@ Montre si machine distante
 **git pull origin master**
 Ramener de github vers branche
 
-**git push origine dev**
+**git push origine dev**.
 envoyer de branche machine vers dev github
 
-### *Vocabulaire*
 
-**Branch master**
-**Branch dev**
-**Repository**
-**Github**

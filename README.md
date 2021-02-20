@@ -17,8 +17,8 @@ Il me sera utile pour tout le long  de ma formation au sein du centre AFPA.
 - **Base de donnees**  
 
 
-- **client**  
-
+- **Client :**  
+Le client est ce qui envoie des demandes à un serveur. Cela peut être aussi bien l'ordinateur depuis lequel les demandes sont envoyées que le logiciel qui contient les instructions relatives à la formulation des demandes et la personne qui opère les demandes. Dans le cadre d'une navigation internet, le client peut ainsi être Firefox, Chrome, Edge ou autres logiciels clients.
 
 - **CSS**  
 
